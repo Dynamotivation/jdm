@@ -14851,6 +14851,17 @@
     },
 
     {
+        "name": "PicturePeople",
+        "url": "https://www.picturepeople.de/customer/profile/",
+        "difficulty": "easy",
+        "notes": "On your profile page, scroll down to the bottom and click the trash can icon. You will be asked to type out your email address once again. After clicking continue, you will instantly be signed out. You cannot reactive your account.",
+        "notes_de": "Scrolle auf deiner Profilseite nach unten, bis das \"Mülltonne\"-Symbol siehst und klicke es an. Tippe danach ein letztes mal deine E-Mail Adresse ein. Sobald du weiter klickst wird dein Account gelöscht und du abgemeldet.",
+        "domains": [
+            "www.picturepeople.de"
+        ]
+    },
+
+    {
         "name": "Pillpack",
         "url": "https://help.pillpack.com/hc/en-us/requests/new",
         "difficulty": "hard",
